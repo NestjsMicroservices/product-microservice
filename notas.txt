@@ -1,0 +1,5 @@
+ Crear migracion
+ npx prisma migrate dev --name indexavailable  
+
+basic microservice nest
+ https://docs.nestjs.com/microservices/basics
